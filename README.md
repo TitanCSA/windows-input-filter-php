@@ -1,5 +1,11 @@
 # Windows-Input-Filter PHP SDK
 
+<!-- simple-start:start -->
+Use Windows-Input-Filter from a PHP app.
+
+**Start here.** Run `composer require titancsa/windows-input-filter`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
